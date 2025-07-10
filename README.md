@@ -1,10 +1,22 @@
-# flpdorea's Sweep 34 keys layout
+# flpdorea's Sweep layout
 
 <img src="./keyboard.jpeg" alt="flpdorea's Sweep" width="100%">
 
 This repository nests my own layout for the [Sweep](https://github.com/davidphilipbarr/Sweep) split ergonomic keyboard.
+Files here are primarly meant for my own personal use, but feel free to take it as an inspiration or modify it however you wish.
 
-Files here are primarly meant only for my own personal use, but feel free to use it as an inspiration or however you wish.
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Layers](#layers)
+- [Diagram](#diagram)
+- [How to Use](#how-to-use)
+- [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+lorem ipsum
 
 ## Key Features
 
@@ -20,13 +32,13 @@ This is the default layer with a standard QWERTY layout and Home Row Mods.
 - **Tap:** Standard letter.
 - **Hold:** Corresponding modifier (e.g., holding `A` produces Left Shift).
 
-### Layer 1: Symbols (Hold Left Thumb)
+### Layer 1: Symbols (Hold left thumb)
 Activated by holding the left thumb key (`Space`). This layer provides easy access to common programming symbols.
 
-### Layer 2: Numbers & Navigation (Hold Right Thumb)
+### Layer 2: Numbers & Navigation (Hold right thumb)
 Activated by holding the right thumb key (`Backspace`). This layer features a numpad on the right hand and arrow keys/F-keys on the left.
 
-### Layer 3: System & Mouse Control
+### Layer 3: System & Mouse Control (Hold both thumbs)
 Activated from Layer 1 or 2. This layer contains media controls (volume, play/pause), mouse keys, and system functions like sleep and power.
 
 ## Diagram
