@@ -1,5 +1,7 @@
 # flpdorea's Sweep 34 keys layout
 
+<img src="./keyboard.jpeg" alt="flpdorea's Sweep" width="100%">
+
 This repository nests my own layout for the [Sweep](https://github.com/davidphilipbarr/Sweep) split ergonomic keyboard.
 
 Files here are primarly meant only for my own personal use, but feel free to use it as an inspiration or however you wish.
