@@ -38,8 +38,8 @@
       "KC_DOT",
       "KC_QUES",
       "KC_ESC",
-      "LT(1,KC_SPC)",
-      "LT(2,KC_BSPC)",
+      "LT(2,KC_SPC)",
+      "LT(1,KC_BSPC)",
       "KC_TAB"
     ],
     [
@@ -74,8 +74,8 @@
       "KC_GT",
       "KC_COLN",
       "KC_NO",
-      "KC_NO",
       "LT(3,KC_NO)",
+      "KC_NO",
       "KC_NO"
     ],
     [
@@ -110,8 +110,8 @@
       "KC_3",
       "KC_NO",
       "KC_NO",
-      "LT(3,KC_NO)",
       "KC_NO",
+      "LT(3,KC_NO)",
       "KC_0"
     ],
     [
